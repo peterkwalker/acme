@@ -295,6 +295,14 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "views/site/index.php",
+			"settings":
+			{
+				"buffer_size": 2353,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -326,8 +334,15 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/yii",
+		"/C/wamp/www/yii/views",
+		"/C/wamp/www/yii/views/site"
+	],
 	"file_history":
 	[
+		"/C/wamp/www/yii/views/site/index.php",
 		"/C/wamp/www/bgu-live-new/local-groups.php",
 		"/C/wamp/www/slim/src/public/index.php",
 		"/C/wamp/www/bgu-live-new/header.php",
@@ -454,8 +469,7 @@
 		"/C/wamp/www/bgu-live-new/news.php",
 		"/C/wamp/www/bgu-live-new/classes/queries/news.php",
 		"/C/wamp/www/bgu-live-new/classes/queries/test.php",
-		"/C/wamp/www/bgu-live-new/classes/queries.php",
-		"/C/wamp/www/bgu-live-new/set-password.php"
+		"/C/wamp/www/bgu-live-new/classes/queries.php"
 	],
 	"find":
 	{
@@ -523,8 +537,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "views/site/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								162,
+								162
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
